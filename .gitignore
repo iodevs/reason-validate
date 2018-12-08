@@ -1,0 +1,14 @@
+.DS_Store
+.merlin
+.bsb.lock
+.vscode
+npm-debug.log
+.cache/
+dist/
+/lib/bs/
+/node_modules/
+
+tags
+.vimrc
+.envs
+.projections.json
